@@ -1,23 +1,15 @@
 # 🌸 Mother's Day Card with Flower Animation
 
-A simple and responsive Mother's Day card that includes a heartfelt message and a beautiful flower animation background.
+A simple and responsive Mother's Day.
 
 ## Features
 
-- Heartwarming message for Mom
 - Flower animation background (from CodePen)
-- Ripple-effect button that redirects to a surprise page
 - Fully responsive on all devices
-
-## Files
-
-- `index.html` – Main greeting card
-- `start1.css` – Styling and animation
-- `MothersDay.html` – Surprise page after button click
 
 ## Credits
 
-🌼 Flower animation by [Gabi](https://codepen.io/gabrielleee/pen/WNzXjZJ) on CodePen.
+🌼 Flower animation by [https://codepen.io/mdusmanansari/pen/BamepLe] on CodePen.
 
 ---
 
