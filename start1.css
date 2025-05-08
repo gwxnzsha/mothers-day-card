@@ -31,8 +31,9 @@ body {
     width: 90%;
     max-width: 300px;
     padding: 20px;
-    background-color: #ffffff;
-    border: 1px solid #ddd;
+    background-color: rgba(0, 0, 0, 0.8);
+    box-shadow: 0 0.6em 1.8em rgba(0, 0, 0, 0.2);
+    color: beige;
     border-radius: 8px;
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
     text-align: center;
